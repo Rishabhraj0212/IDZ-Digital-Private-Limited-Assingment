@@ -1,0 +1,24 @@
+body {
+  background-image: url('/Symbol\ 27.png');
+  background-image: url('/Symbol\ 3\ copy.png');
+  background-size: 350px;
+  background-position: center center;
+}
+
+.balloon {
+  position: absolute;
+  width: 50px;
+  height: 70px;
+  cursor: pointer;
+}
+
+#operator {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  width: 80px;
+  height: 70px;
+  background-image: url('/Symbol\ 28.png');
+  background-size: cover;
+  cursor: pointer;
+}
